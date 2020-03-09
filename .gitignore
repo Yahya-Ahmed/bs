@@ -1,0 +1,9 @@
+build
+build/*
+build/**
+*.o
+.cproject
+.project
+.vscode
+.settings
+
